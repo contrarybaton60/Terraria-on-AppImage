@@ -1,6 +1,6 @@
 # TerrariaOnAppImage
 
-![Terraria running from a .AppImage file](https://codeberg.org/PeacefulWilliam/TerrariaOnAppImage/raw/branch/main/images/Terraria%20On%20AppImage.png "Terraria running from a .AppImage file")
+![Terraria running from a .AppImage file](https://github.com/contrarybaton60/Terraria-on-AppImage/blob/main/images/Terraria%20On%20AppImage.png "Terraria running from a .AppImage file")
 
 # Preamble
 
